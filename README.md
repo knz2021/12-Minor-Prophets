@@ -1,1 +1,1 @@
-# 12-Minor-Prophets
+# 12MinorProphets
